@@ -1,0 +1,14 @@
+{
+  "active_gpe": {
+    "mean_retention": 0.6,
+    "mean_fidelity": 0.49653988931777554
+  },
+  "linear_null": {
+    "mean_retention": 0.5125,
+    "mean_fidelity": 0.46054666688783286
+  },
+  "phase_scrambled": {
+    "mean_retention": 0.5625,
+    "mean_fidelity": 0.48090858625291105
+  }
+}
