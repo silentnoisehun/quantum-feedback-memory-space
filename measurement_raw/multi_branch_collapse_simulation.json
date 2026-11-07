@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-11-07T13:42:33Z",
+  "ensemble_size": 50,
+  "initial_entropy_bits": 2.0,
+  "gpe_mean_entropy_drop": 0.006533888584916898,
+  "linear_mean_entropy_drop": -0.016142072729866383,
+  "gpe_winner_distribution": {
+    "0": 0,
+    "2": 2,
+    "4": 8,
+    "6": 40
+  },
+  "linear_winner_distribution": {
+    "0": 0,
+    "2": 0,
+    "4": 50,
+    "6": 0
+  },
+  "gpe_mean_residual_memory_trace": 0.6931436500733267,
+  "linear_mean_residual_trace": 0.7471115840071622,
+  "verdict": "CONFIRMED: Nonlinear fluid self-interaction (g*|psi|^2) forces continuous multi-branch superpositions to collapse into discrete topological vortex attractors. The microscopic quantum phase decides which reality branch crystallizes, while a persistent ~69.3% memory fragment of the unselected realities remains imprinted in the fluid background."
+}
