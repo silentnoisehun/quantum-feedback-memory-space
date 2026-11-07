@@ -1,0 +1,70 @@
+{
+  "seeds": [
+    20261101,
+    20261102,
+    20261103,
+    20261104,
+    20261105,
+    20261106
+  ],
+  "mean_diff_entropy": 0.01264818476600745,
+  "t_statistic": 1.2528014957637814,
+  "p_value": 0.2656770176009664,
+  "verdict": "H0 CONFIRMED: QPU feedback loop is statistically indistinguishable from the noise-matched model",
+  "per_seed": [
+    {
+      "seed": 20261101,
+      "entropy_ideal": 0.9984979288845164,
+      "entropy_qpu_arm": 0.9746568559504772,
+      "entropy_model_arm": 1.0031194620649413,
+      "diff_entropy_q_minus_m": -0.02846260611446405,
+      "mode_flips_qpu": 2,
+      "mode_flips_model": 2
+    },
+    {
+      "seed": 20261102,
+      "entropy_ideal": 0.9975252064771863,
+      "entropy_qpu_arm": 1.0047839973241575,
+      "entropy_model_arm": 0.9895906036548159,
+      "diff_entropy_q_minus_m": 0.015193393669341582,
+      "mode_flips_qpu": 2,
+      "mode_flips_model": 2
+    },
+    {
+      "seed": 20261103,
+      "entropy_ideal": 0.9980645927463389,
+      "entropy_qpu_arm": 1.0152886254752347,
+      "entropy_model_arm": 0.9688635414603132,
+      "diff_entropy_q_minus_m": 0.046425084014921514,
+      "mode_flips_qpu": 2,
+      "mode_flips_model": 2
+    },
+    {
+      "seed": 20261104,
+      "entropy_ideal": 0.9980495569208849,
+      "entropy_qpu_arm": 1.0082736749899666,
+      "entropy_model_arm": 0.9935576123619124,
+      "diff_entropy_q_minus_m": 0.014716062628054138,
+      "mode_flips_qpu": 2,
+      "mode_flips_model": 2
+    },
+    {
+      "seed": 20261105,
+      "entropy_ideal": 0.9976849006331409,
+      "entropy_qpu_arm": 0.9962931281146294,
+      "entropy_model_arm": 0.9719792777109247,
+      "diff_entropy_q_minus_m": 0.024313850403704707,
+      "mode_flips_qpu": 2,
+      "mode_flips_model": 2
+    },
+    {
+      "seed": 20261106,
+      "entropy_ideal": 0.9974263052165925,
+      "entropy_qpu_arm": 0.9983933613523994,
+      "entropy_model_arm": 0.9946900373579126,
+      "diff_entropy_q_minus_m": 0.003703323994486807,
+      "mode_flips_qpu": 2,
+      "mode_flips_model": 2
+    }
+  ]
+}
