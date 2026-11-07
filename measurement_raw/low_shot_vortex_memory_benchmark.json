@@ -1,0 +1,2831 @@
+{
+  "shots_20": {
+    "shots": 20,
+    "overall_success": 0.25,
+    "overall_retention": 0.17,
+    "symbols": {
+      "Ground_Mode_0": {
+        "target_mode": 0,
+        "final_mode": 0,
+        "retention_rate": 0.68,
+        "mean_fidelity": 0.6133174700648109,
+        "success": true,
+        "history": [
+          {
+            "cycle": 0,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9957967207614695,
+            "dominant_energy": 0.9957967207614695,
+            "modal_entropy": 0.03965066293333555
+          },
+          {
+            "cycle": 1,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.988804336558065,
+            "dominant_energy": 0.988804336558065,
+            "modal_entropy": 0.08992395611607078
+          },
+          {
+            "cycle": 2,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9775877315046663,
+            "dominant_energy": 0.9775877315046663,
+            "modal_entropy": 0.1584465815586026
+          },
+          {
+            "cycle": 3,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9571336766853822,
+            "dominant_energy": 0.9571336766853822,
+            "modal_entropy": 0.2646957072191204
+          },
+          {
+            "cycle": 4,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9301349731938935,
+            "dominant_energy": 0.9301349731938935,
+            "modal_entropy": 0.3856300047029086
+          },
+          {
+            "cycle": 5,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9188335889867454,
+            "dominant_energy": 0.9188335889867454,
+            "modal_entropy": 0.43491314052145946
+          },
+          {
+            "cycle": 6,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.904045950179592,
+            "dominant_energy": 0.904045950179592,
+            "modal_entropy": 0.49248915655207626
+          },
+          {
+            "cycle": 7,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.8853022545769945,
+            "dominant_energy": 0.8853022545769945,
+            "modal_entropy": 0.5571145313605717
+          },
+          {
+            "cycle": 8,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.8521835319541449,
+            "dominant_energy": 0.8521835319541449,
+            "modal_entropy": 0.6558489519748893
+          },
+          {
+            "cycle": 9,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.823232709318946,
+            "dominant_energy": 0.823232709318946,
+            "modal_entropy": 0.7331216904333864
+          },
+          {
+            "cycle": 10,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.7688923466688611,
+            "dominant_energy": 0.7688923466688611,
+            "modal_entropy": 0.8599891576764574
+          },
+          {
+            "cycle": 11,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.7258265588712861,
+            "dominant_energy": 0.7258265588712861,
+            "modal_entropy": 0.9448105654799485
+          },
+          {
+            "cycle": 12,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6986411759424447,
+            "dominant_energy": 0.6986411759424447,
+            "modal_entropy": 1.0043988827193266
+          },
+          {
+            "cycle": 13,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.685066062024729,
+            "dominant_energy": 0.685066062024729,
+            "modal_entropy": 1.0402907025750339
+          },
+          {
+            "cycle": 14,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6160408596084842,
+            "dominant_energy": 0.6160408596084842,
+            "modal_entropy": 1.1390159608219712
+          },
+          {
+            "cycle": 15,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.5600080239615217,
+            "dominant_energy": 0.5600080239615217,
+            "modal_entropy": 1.210142107937943
+          },
+          {
+            "cycle": 16,
+            "measured_mode": 1,
+            "target_mode": 0,
+            "retained": false,
+            "mode_fidelity": 0.44458421629960415,
+            "dominant_energy": 0.4836233542392373,
+            "modal_entropy": 1.3207930881745578
+          },
+          {
+            "cycle": 17,
+            "measured_mode": 1,
+            "target_mode": 0,
+            "retained": false,
+            "mode_fidelity": 0.2999567510836203,
+            "dominant_energy": 0.5897028020375257,
+            "modal_entropy": 1.364898493893064
+          },
+          {
+            "cycle": 18,
+            "measured_mode": 1,
+            "target_mode": 0,
+            "retained": false,
+            "mode_fidelity": 0.14716924179616725,
+            "dominant_energy": 0.6890219014881259,
+            "modal_entropy": 1.2753558492225088
+          },
+          {
+            "cycle": 19,
+            "measured_mode": 1,
+            "target_mode": 0,
+            "retained": false,
+            "mode_fidelity": 0.043546742169691635,
+            "dominant_energy": 0.7212403334481773,
+            "modal_entropy": 1.1603422243486587
+          },
+          {
+            "cycle": 20,
+            "measured_mode": 1,
+            "target_mode": 0,
+            "retained": false,
+            "mode_fidelity": 0.048055066314612024,
+            "dominant_energy": 0.6637158384842433,
+            "modal_entropy": 1.3138720517091702
+          },
+          {
+            "cycle": 21,
+            "measured_mode": 1,
+            "target_mode": 0,
+            "retained": false,
+            "mode_fidelity": 0.1168249510924619,
+            "dominant_energy": 0.5573876811475482,
+            "modal_entropy": 1.585948738827491
+          },
+          {
+            "cycle": 22,
+            "measured_mode": 1,
+            "target_mode": 0,
+            "retained": false,
+            "mode_fidelity": 0.20567022223499393,
+            "dominant_energy": 0.463432875814984,
+            "modal_entropy": 1.7772135225367856
+          },
+          {
+            "cycle": 23,
+            "measured_mode": 1,
+            "target_mode": 0,
+            "retained": false,
+            "mode_fidelity": 0.3439082573055293,
+            "dominant_energy": 0.3480913800952047,
+            "modal_entropy": 1.9058565375264918
+          },
+          {
+            "cycle": 24,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.3956908025263637,
+            "dominant_energy": 0.3956908025263637,
+            "modal_entropy": 1.9301846865127843
+          }
+        ]
+      },
+      "Dipole_Vortex_3": {
+        "target_mode": 3,
+        "final_mode": 0,
+        "retention_rate": 0.0,
+        "mean_fidelity": 0.001256791455258827,
+        "success": false,
+        "history": [
+          {
+            "cycle": 0,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 2.7530700577197833e-06,
+            "dominant_energy": 0.9749931967621566,
+            "modal_entropy": 0.17074146624408465
+          },
+          {
+            "cycle": 1,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 1.2426939111432276e-06,
+            "dominant_energy": 0.9627017437933464,
+            "modal_entropy": 0.23232513415493322
+          },
+          {
+            "cycle": 2,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 2.744762541041369e-06,
+            "dominant_energy": 0.9492294877369415,
+            "modal_entropy": 0.29404001751312636
+          },
+          {
+            "cycle": 3,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 1.4313815687529345e-05,
+            "dominant_energy": 0.9344615952417231,
+            "modal_entropy": 0.3588333611505782
+          },
+          {
+            "cycle": 4,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 4.599067197601722e-05,
+            "dominant_energy": 0.9370499125340767,
+            "modal_entropy": 0.35337145124123354
+          },
+          {
+            "cycle": 5,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 9.808685682222477e-05,
+            "dominant_energy": 0.9323154685518094,
+            "modal_entropy": 0.37671471462741507
+          },
+          {
+            "cycle": 6,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.00017999867475575188,
+            "dominant_energy": 0.9260685621378456,
+            "modal_entropy": 0.4045741161379607
+          },
+          {
+            "cycle": 7,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0003223307846243305,
+            "dominant_energy": 0.9064947071857231,
+            "modal_entropy": 0.4828423474412506
+          },
+          {
+            "cycle": 8,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0004480162886645599,
+            "dominant_energy": 0.8904075219046229,
+            "modal_entropy": 0.5382271595633834
+          },
+          {
+            "cycle": 9,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0005948474780149108,
+            "dominant_energy": 0.8592341706988365,
+            "modal_entropy": 0.6346175437690712
+          },
+          {
+            "cycle": 10,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0007815200947344851,
+            "dominant_energy": 0.848956396153052,
+            "modal_entropy": 0.6667574037364042
+          },
+          {
+            "cycle": 11,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0010256297171577142,
+            "dominant_energy": 0.8055896335140645,
+            "modal_entropy": 0.7824760978854776
+          },
+          {
+            "cycle": 12,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0012868779015084047,
+            "dominant_energy": 0.7631142073269905,
+            "modal_entropy": 0.8810531511541109
+          },
+          {
+            "cycle": 13,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0019134147933625096,
+            "dominant_energy": 0.7313112389757376,
+            "modal_entropy": 0.9620640142544011
+          },
+          {
+            "cycle": 14,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0028098300943113315,
+            "dominant_energy": 0.7060694909665383,
+            "modal_entropy": 1.0254151646034377
+          },
+          {
+            "cycle": 15,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0032893461649746887,
+            "dominant_energy": 0.711183762800085,
+            "modal_entropy": 1.0270187494878253
+          },
+          {
+            "cycle": 16,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0038534685859384654,
+            "dominant_energy": 0.7000101236272955,
+            "modal_entropy": 1.054698494508589
+          },
+          {
+            "cycle": 17,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0038065655071931963,
+            "dominant_energy": 0.6999452697432964,
+            "modal_entropy": 1.0594337978592279
+          },
+          {
+            "cycle": 18,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.003914630768805508,
+            "dominant_energy": 0.6604546806188137,
+            "modal_entropy": 1.1323003385624653
+          },
+          {
+            "cycle": 19,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0029791524477850817,
+            "dominant_energy": 0.6470394242430073,
+            "modal_entropy": 1.1470231330495009
+          },
+          {
+            "cycle": 20,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0017573605303058829,
+            "dominant_energy": 0.6428584263351104,
+            "modal_entropy": 1.1414157863992014
+          },
+          {
+            "cycle": 21,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0006132202837988692,
+            "dominant_energy": 0.6571168786052972,
+            "modal_entropy": 1.108226511843343
+          },
+          {
+            "cycle": 22,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 8.614440361632155e-05,
+            "dominant_energy": 0.6531925554991723,
+            "modal_entropy": 1.0982156032695738
+          },
+          {
+            "cycle": 23,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0003173587966931589,
+            "dominant_energy": 0.6482358331320422,
+            "modal_entropy": 1.073512705821567
+          },
+          {
+            "cycle": 24,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0012749411942298303,
+            "dominant_energy": 0.6391955459076709,
+            "modal_entropy": 1.0538547466687214
+          }
+        ]
+      },
+      "Quadrupole_Vortex_7": {
+        "target_mode": 7,
+        "final_mode": 1,
+        "retention_rate": 0.0,
+        "mean_fidelity": 2.9442400177991276e-05,
+        "success": false,
+        "history": [
+          {
+            "cycle": 0,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.2021148272283022e-06,
+            "dominant_energy": 0.5216520327623457,
+            "modal_entropy": 1.0405533136618617
+          },
+          {
+            "cycle": 1,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.6889127484573335e-06,
+            "dominant_energy": 0.6764476417022899,
+            "modal_entropy": 0.9323629401267847
+          },
+          {
+            "cycle": 2,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.2206386974447275e-06,
+            "dominant_energy": 0.7677339274424605,
+            "modal_entropy": 0.7954904784547331
+          },
+          {
+            "cycle": 3,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 3.186958784527118e-07,
+            "dominant_energy": 0.8617092228202208,
+            "modal_entropy": 0.5851636498143172
+          },
+          {
+            "cycle": 4,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.9767691168424033e-07,
+            "dominant_energy": 0.9104227712728549,
+            "modal_entropy": 0.43634820661639484
+          },
+          {
+            "cycle": 5,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.3482218935564257e-07,
+            "dominant_energy": 0.9267902135292797,
+            "modal_entropy": 0.3794990276784892
+          },
+          {
+            "cycle": 6,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.349918198907788e-07,
+            "dominant_energy": 0.933479017700374,
+            "modal_entropy": 0.35693786632101415
+          },
+          {
+            "cycle": 7,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 3.852061050913886e-08,
+            "dominant_energy": 0.9375467526499947,
+            "modal_entropy": 0.34429565977701954
+          },
+          {
+            "cycle": 8,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.2876173281389458e-08,
+            "dominant_energy": 0.9280287802579547,
+            "modal_entropy": 0.3838044994124102
+          },
+          {
+            "cycle": 9,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 4.238302360020541e-08,
+            "dominant_energy": 0.9127263743961063,
+            "modal_entropy": 0.44281888327939906
+          },
+          {
+            "cycle": 10,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.1424292285822234e-09,
+            "dominant_energy": 0.8864087937830968,
+            "modal_entropy": 0.5324543851849592
+          },
+          {
+            "cycle": 11,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.402848519327059e-08,
+            "dominant_energy": 0.8453259205375131,
+            "modal_entropy": 0.656201718876684
+          },
+          {
+            "cycle": 12,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.706567983717749e-07,
+            "dominant_energy": 0.7869344809647809,
+            "modal_entropy": 0.8051523248676971
+          },
+          {
+            "cycle": 13,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.6858291469230595e-08,
+            "dominant_energy": 0.7065252317966222,
+            "modal_entropy": 0.9714917273140359
+          },
+          {
+            "cycle": 14,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.3791696875448953e-08,
+            "dominant_energy": 0.5849889332926475,
+            "modal_entropy": 1.1698543318398675
+          },
+          {
+            "cycle": 15,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.5669267755606456e-07,
+            "dominant_energy": 0.5107043531116514,
+            "modal_entropy": 1.298663268832207
+          },
+          {
+            "cycle": 16,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 3.779035502760001e-07,
+            "dominant_energy": 0.5125119116374374,
+            "modal_entropy": 1.441465915738092
+          },
+          {
+            "cycle": 17,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.2335966285877085e-06,
+            "dominant_energy": 0.5532835786306978,
+            "modal_entropy": 1.5346270951137628
+          },
+          {
+            "cycle": 18,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.069817426650354e-06,
+            "dominant_energy": 0.5605283277948331,
+            "modal_entropy": 1.602061545407602
+          },
+          {
+            "cycle": 19,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.8767801012413664e-05,
+            "dominant_energy": 0.548065147740198,
+            "modal_entropy": 1.6300054662183476
+          },
+          {
+            "cycle": 20,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 3.8377532416207674e-05,
+            "dominant_energy": 0.5043591559368413,
+            "modal_entropy": 1.6930541784702098
+          },
+          {
+            "cycle": 21,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 0.0001408075611247693,
+            "dominant_energy": 0.46447193052334934,
+            "modal_entropy": 1.7319566802078155
+          },
+          {
+            "cycle": 22,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 0.00017023739432904644,
+            "dominant_energy": 0.4149480576724584,
+            "modal_entropy": 1.7907728878079752
+          },
+          {
+            "cycle": 23,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 0.00015503687925285132,
+            "dominant_energy": 0.4047161250389173,
+            "modal_entropy": 1.7862850709276636
+          },
+          {
+            "cycle": 24,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 0.00020156671545038064,
+            "dominant_energy": 0.4158239914364471,
+            "modal_entropy": 1.7664757520784553
+          }
+        ]
+      },
+      "High_Harmonic_12": {
+        "target_mode": 12,
+        "final_mode": 1,
+        "retention_rate": 0.0,
+        "mean_fidelity": 3.428499498213543e-07,
+        "success": false,
+        "history": [
+          {
+            "cycle": 0,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 4.872561992886197e-07,
+            "dominant_energy": 0.6106823904327685,
+            "modal_entropy": 0.9974950428034071
+          },
+          {
+            "cycle": 1,
+            "measured_mode": 1,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 3.2468610353370077e-07,
+            "dominant_energy": 0.9264358284759917,
+            "modal_entropy": 0.422901761767938
+          },
+          {
+            "cycle": 2,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.508733978072335e-07,
+            "dominant_energy": 0.5381487444447342,
+            "modal_entropy": 1.026049412199245
+          },
+          {
+            "cycle": 3,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.0986297934029122e-07,
+            "dominant_energy": 0.8569935237713074,
+            "modal_entropy": 0.5987502891513274
+          },
+          {
+            "cycle": 4,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.939173298624335e-07,
+            "dominant_energy": 0.941500235843849,
+            "modal_entropy": 0.32533529010546564
+          },
+          {
+            "cycle": 5,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 4.899459416841638e-07,
+            "dominant_energy": 0.9685775123314501,
+            "modal_entropy": 0.206581875245712
+          },
+          {
+            "cycle": 6,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 6.858136880830223e-07,
+            "dominant_energy": 0.9744300720411807,
+            "modal_entropy": 0.1796933431211785
+          },
+          {
+            "cycle": 7,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 5.064677727637466e-07,
+            "dominant_energy": 0.9797994990847572,
+            "modal_entropy": 0.151512385096658
+          },
+          {
+            "cycle": 8,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.3521165695696502e-07,
+            "dominant_energy": 0.976120037379698,
+            "modal_entropy": 0.1722464221037768
+          },
+          {
+            "cycle": 9,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.493804813673706e-08,
+            "dominant_energy": 0.9580541930844384,
+            "modal_entropy": 0.267234312119688
+          },
+          {
+            "cycle": 10,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 3.497710776850109e-08,
+            "dominant_energy": 0.9268934135726873,
+            "modal_entropy": 0.4090875406981976
+          },
+          {
+            "cycle": 11,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 7.116332910415011e-08,
+            "dominant_energy": 0.866975426881293,
+            "modal_entropy": 0.6301245051671865
+          },
+          {
+            "cycle": 12,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.0254204426281827e-08,
+            "dominant_energy": 0.7832771296978612,
+            "modal_entropy": 0.859837944555421
+          },
+          {
+            "cycle": 13,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.4925665648409372e-08,
+            "dominant_energy": 0.7210160874821236,
+            "modal_entropy": 1.0106507388651176
+          },
+          {
+            "cycle": 14,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.7236142016242702e-07,
+            "dominant_energy": 0.650685401029673,
+            "modal_entropy": 1.153030931119956
+          },
+          {
+            "cycle": 15,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 5.161128781462404e-08,
+            "dominant_energy": 0.6217663014882142,
+            "modal_entropy": 1.2191035062851503
+          },
+          {
+            "cycle": 16,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 8.013444992623276e-08,
+            "dominant_energy": 0.5212133657906058,
+            "modal_entropy": 1.3845582727158765
+          },
+          {
+            "cycle": 17,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.83717168400887e-07,
+            "dominant_energy": 0.46589241035333784,
+            "modal_entropy": 1.464288838105699
+          },
+          {
+            "cycle": 18,
+            "measured_mode": 1,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 7.463052531830075e-08,
+            "dominant_energy": 0.4525280562861702,
+            "modal_entropy": 1.5183968456326593
+          },
+          {
+            "cycle": 19,
+            "measured_mode": 1,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 3.744584837255853e-07,
+            "dominant_energy": 0.5245617889463624,
+            "modal_entropy": 1.5743669317248015
+          },
+          {
+            "cycle": 20,
+            "measured_mode": 1,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 9.265235351074296e-07,
+            "dominant_energy": 0.5300801139080067,
+            "modal_entropy": 1.575209011708713
+          },
+          {
+            "cycle": 21,
+            "measured_mode": 1,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 6.593104277792769e-07,
+            "dominant_energy": 0.5519209356830863,
+            "modal_entropy": 1.5455443769609563
+          },
+          {
+            "cycle": 22,
+            "measured_mode": 1,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 4.379833395920182e-07,
+            "dominant_energy": 0.5441385614359173,
+            "modal_entropy": 1.5332943166127975
+          },
+          {
+            "cycle": 23,
+            "measured_mode": 1,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.3267923193797472e-06,
+            "dominant_energy": 0.5910491176727313,
+            "modal_entropy": 1.4854752990741626
+          },
+          {
+            "cycle": 24,
+            "measured_mode": 1,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 9.334323639230741e-07,
+            "dominant_energy": 0.5611364970224855,
+            "modal_entropy": 1.543706115974961
+          }
+        ]
+      }
+    }
+  },
+  "shots_100": {
+    "shots": 100,
+    "overall_success": 0.25,
+    "overall_retention": 0.25,
+    "symbols": {
+      "Ground_Mode_0": {
+        "target_mode": 0,
+        "final_mode": 0,
+        "retention_rate": 1.0,
+        "mean_fidelity": 0.7312454997871951,
+        "success": true,
+        "history": [
+          {
+            "cycle": 0,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9957967207614695,
+            "dominant_energy": 0.9957967207614695,
+            "modal_entropy": 0.03965066293333555
+          },
+          {
+            "cycle": 1,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9892106731028876,
+            "dominant_energy": 0.9892106731028876,
+            "modal_entropy": 0.08723164546793401
+          },
+          {
+            "cycle": 2,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9790112243758952,
+            "dominant_energy": 0.9790112243758952,
+            "modal_entropy": 0.15032346872279864
+          },
+          {
+            "cycle": 3,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9659635221190814,
+            "dominant_energy": 0.9659635221190814,
+            "modal_entropy": 0.22165205749474418
+          },
+          {
+            "cycle": 4,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9412705772146804,
+            "dominant_energy": 0.9412705772146804,
+            "modal_entropy": 0.33820955071656605
+          },
+          {
+            "cycle": 5,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9190012750134535,
+            "dominant_energy": 0.9190012750134535,
+            "modal_entropy": 0.4312821614498184
+          },
+          {
+            "cycle": 6,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.8882841078497747,
+            "dominant_energy": 0.8882841078497747,
+            "modal_entropy": 0.5439663422757262
+          },
+          {
+            "cycle": 7,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.8491124411852292,
+            "dominant_energy": 0.8491124411852292,
+            "modal_entropy": 0.6678486426077682
+          },
+          {
+            "cycle": 8,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.7925843423520539,
+            "dominant_energy": 0.7925843423520539,
+            "modal_entropy": 0.8145399299240388
+          },
+          {
+            "cycle": 9,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.7361849147917765,
+            "dominant_energy": 0.7361849147917765,
+            "modal_entropy": 0.9363826050561461
+          },
+          {
+            "cycle": 10,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6855442725577523,
+            "dominant_energy": 0.6855442725577523,
+            "modal_entropy": 1.019251091009145
+          },
+          {
+            "cycle": 11,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6474803710515993,
+            "dominant_energy": 0.6474803710515993,
+            "modal_entropy": 1.0892176227218027
+          },
+          {
+            "cycle": 12,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6262089007343283,
+            "dominant_energy": 0.6262089007343283,
+            "modal_entropy": 1.1392694240524834
+          },
+          {
+            "cycle": 13,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6290347827268138,
+            "dominant_energy": 0.6290347827268138,
+            "modal_entropy": 1.1511506796729032
+          },
+          {
+            "cycle": 14,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6032865968243462,
+            "dominant_energy": 0.6032865968243462,
+            "modal_entropy": 1.2018085749704017
+          },
+          {
+            "cycle": 15,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6133875093057608,
+            "dominant_energy": 0.6133875093057608,
+            "modal_entropy": 1.194842907752956
+          },
+          {
+            "cycle": 16,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.5946128693318293,
+            "dominant_energy": 0.5946128693318293,
+            "modal_entropy": 1.2151100995386375
+          },
+          {
+            "cycle": 17,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.5911810201449899,
+            "dominant_energy": 0.5911810201449899,
+            "modal_entropy": 1.2041777746844802
+          },
+          {
+            "cycle": 18,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.5787612654387214,
+            "dominant_energy": 0.5787612654387214,
+            "modal_entropy": 1.1974083715437838
+          },
+          {
+            "cycle": 19,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.5615441568390648,
+            "dominant_energy": 0.5615441568390648,
+            "modal_entropy": 1.2019019315536112
+          },
+          {
+            "cycle": 20,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.5679863967560226,
+            "dominant_energy": 0.5679863967560226,
+            "modal_entropy": 1.1672590436382309
+          },
+          {
+            "cycle": 21,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.5872084856949543,
+            "dominant_energy": 0.5872084856949543,
+            "modal_entropy": 1.1150720168532977
+          },
+          {
+            "cycle": 22,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6174132157971435,
+            "dominant_energy": 0.6174132157971435,
+            "modal_entropy": 1.0429392116885985
+          },
+          {
+            "cycle": 23,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6462036642377109,
+            "dominant_energy": 0.6462036642377109,
+            "modal_entropy": 0.9945976821411333
+          },
+          {
+            "cycle": 24,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6748641884725403,
+            "dominant_energy": 0.6748641884725403,
+            "modal_entropy": 0.9741428021237285
+          }
+        ]
+      },
+      "Dipole_Vortex_3": {
+        "target_mode": 3,
+        "final_mode": 1,
+        "retention_rate": 0.0,
+        "mean_fidelity": 0.0022514536282358623,
+        "success": false,
+        "history": [
+          {
+            "cycle": 0,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 2.7530700577197833e-06,
+            "dominant_energy": 0.9749931967621566,
+            "modal_entropy": 0.17074146624408465
+          },
+          {
+            "cycle": 1,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 1.3312199257076895e-06,
+            "dominant_energy": 0.9643208634989086,
+            "modal_entropy": 0.22453962669184585
+          },
+          {
+            "cycle": 2,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 2.3145389253510864e-06,
+            "dominant_energy": 0.9500581451176955,
+            "modal_entropy": 0.29017696605502535
+          },
+          {
+            "cycle": 3,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 1.0669537003347103e-05,
+            "dominant_energy": 0.9359703614960154,
+            "modal_entropy": 0.35178558097699253
+          },
+          {
+            "cycle": 4,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 3.994689065527223e-05,
+            "dominant_energy": 0.9324275430164248,
+            "modal_entropy": 0.37087480845691634
+          },
+          {
+            "cycle": 5,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.00010651328962547256,
+            "dominant_energy": 0.9256548020242091,
+            "modal_entropy": 0.40377612468220186
+          },
+          {
+            "cycle": 6,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.00023985975563112926,
+            "dominant_energy": 0.9110354167749566,
+            "modal_entropy": 0.46558927555528284
+          },
+          {
+            "cycle": 7,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0004940507753259339,
+            "dominant_energy": 0.8886270612411407,
+            "modal_entropy": 0.5512537540736795
+          },
+          {
+            "cycle": 8,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0008288388971748687,
+            "dominant_energy": 0.8601737760755123,
+            "modal_entropy": 0.6438999038517376
+          },
+          {
+            "cycle": 9,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0012283837949111501,
+            "dominant_energy": 0.8218594493757223,
+            "modal_entropy": 0.7508499168467347
+          },
+          {
+            "cycle": 10,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.001682648812770418,
+            "dominant_energy": 0.7821634752697594,
+            "modal_entropy": 0.8474367830280044
+          },
+          {
+            "cycle": 11,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0020160786614413203,
+            "dominant_energy": 0.7235594547156305,
+            "modal_entropy": 0.9656708877677247
+          },
+          {
+            "cycle": 12,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.002568678518527225,
+            "dominant_energy": 0.6817294191559242,
+            "modal_entropy": 1.0438461045706924
+          },
+          {
+            "cycle": 13,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0034217661837329253,
+            "dominant_energy": 0.6762202214024142,
+            "modal_entropy": 1.0692958269641164
+          },
+          {
+            "cycle": 14,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.004853404975305562,
+            "dominant_energy": 0.6418628823907874,
+            "modal_entropy": 1.1453400269230234
+          },
+          {
+            "cycle": 15,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0054971696762105325,
+            "dominant_energy": 0.6379951731080699,
+            "modal_entropy": 1.169225434992441
+          },
+          {
+            "cycle": 16,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.006665285904343446,
+            "dominant_energy": 0.589075309266899,
+            "modal_entropy": 1.2563084694444948
+          },
+          {
+            "cycle": 17,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.006053354086560842,
+            "dominant_energy": 0.5877062007499065,
+            "modal_entropy": 1.2646934610607203
+          },
+          {
+            "cycle": 18,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.005283533021067746,
+            "dominant_energy": 0.5515119040463622,
+            "modal_entropy": 1.3099086929051194
+          },
+          {
+            "cycle": 19,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0039595531368580815,
+            "dominant_energy": 0.49876452133268356,
+            "modal_entropy": 1.3526608209096702
+          },
+          {
+            "cycle": 20,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.002175796960847047,
+            "dominant_energy": 0.4843135350264624,
+            "modal_entropy": 1.3454978656201264
+          },
+          {
+            "cycle": 21,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0005102019531515184,
+            "dominant_energy": 0.4757949634077334,
+            "modal_entropy": 1.3257147824755253
+          },
+          {
+            "cycle": 22,
+            "measured_mode": 1,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.00022882783872765587,
+            "dominant_energy": 0.46861636053317185,
+            "modal_entropy": 1.3113532612208025
+          },
+          {
+            "cycle": 23,
+            "measured_mode": 1,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.00197087199139601,
+            "dominant_energy": 0.5331897262971345,
+            "modal_entropy": 1.2972851098994254
+          },
+          {
+            "cycle": 24,
+            "measured_mode": 1,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.006444507215720286,
+            "dominant_energy": 0.5902016233677128,
+            "modal_entropy": 1.2658124117145415
+          }
+        ]
+      },
+      "Quadrupole_Vortex_7": {
+        "target_mode": 7,
+        "final_mode": 1,
+        "retention_rate": 0.0,
+        "mean_fidelity": 1.9704027507606395e-05,
+        "success": false,
+        "history": [
+          {
+            "cycle": 0,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.2021148272283022e-06,
+            "dominant_energy": 0.5216520327623457,
+            "modal_entropy": 1.0405533136618617
+          },
+          {
+            "cycle": 1,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.6104983997712823e-06,
+            "dominant_energy": 0.6775933449399929,
+            "modal_entropy": 0.930176522627059
+          },
+          {
+            "cycle": 2,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.130880698560052e-06,
+            "dominant_energy": 0.7762736438172821,
+            "modal_entropy": 0.780589028156617
+          },
+          {
+            "cycle": 3,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.9152495419919195e-07,
+            "dominant_energy": 0.8678541342535355,
+            "modal_entropy": 0.5689061515118355
+          },
+          {
+            "cycle": 4,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.806643436614443e-07,
+            "dominant_energy": 0.914742284442011,
+            "modal_entropy": 0.42186235256253946
+          },
+          {
+            "cycle": 5,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.2765555442247339e-07,
+            "dominant_energy": 0.9322544002114548,
+            "modal_entropy": 0.35899169442674395
+          },
+          {
+            "cycle": 6,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.4807569070578612e-07,
+            "dominant_energy": 0.9370243859241759,
+            "modal_entropy": 0.3431001615326127
+          },
+          {
+            "cycle": 7,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 4.4146923868710145e-08,
+            "dominant_energy": 0.9381043889062561,
+            "modal_entropy": 0.34226992290585834
+          },
+          {
+            "cycle": 8,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 6.734592932559765e-09,
+            "dominant_energy": 0.9233960587332802,
+            "modal_entropy": 0.4028041931152259
+          },
+          {
+            "cycle": 9,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.6859735565964253e-08,
+            "dominant_energy": 0.9024445861520896,
+            "modal_entropy": 0.48135513245734846
+          },
+          {
+            "cycle": 10,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.879597591821499e-09,
+            "dominant_energy": 0.8733325242428803,
+            "modal_entropy": 0.578022762780979
+          },
+          {
+            "cycle": 11,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 4.944637205665176e-08,
+            "dominant_energy": 0.8368972699590572,
+            "modal_entropy": 0.6852713312518052
+          },
+          {
+            "cycle": 12,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 3.921461499974837e-07,
+            "dominant_energy": 0.7611554935393616,
+            "modal_entropy": 0.8665849369789117
+          },
+          {
+            "cycle": 13,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 4.365463893262527e-07,
+            "dominant_energy": 0.7066507357367731,
+            "modal_entropy": 0.9797563544447676
+          },
+          {
+            "cycle": 14,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 6.709941810517716e-07,
+            "dominant_energy": 0.6421877954835535,
+            "modal_entropy": 1.1021174625701131
+          },
+          {
+            "cycle": 15,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.533610792223954e-06,
+            "dominant_energy": 0.6102751173362904,
+            "modal_entropy": 1.1819832469209783
+          },
+          {
+            "cycle": 16,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.4075337578705184e-06,
+            "dominant_energy": 0.5443234846981189,
+            "modal_entropy": 1.3043447656727112
+          },
+          {
+            "cycle": 17,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.6905277028809253e-06,
+            "dominant_energy": 0.5347656001662792,
+            "modal_entropy": 1.3445160135779903
+          },
+          {
+            "cycle": 18,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.5943709878793272e-06,
+            "dominant_energy": 0.4942192197061027,
+            "modal_entropy": 1.4036352271711166
+          },
+          {
+            "cycle": 19,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.7858527940749773e-05,
+            "dominant_energy": 0.4548173580800617,
+            "modal_entropy": 1.4298889130741417
+          },
+          {
+            "cycle": 20,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 4.072616986178274e-05,
+            "dominant_energy": 0.4579777767167378,
+            "modal_entropy": 1.3946402293973297
+          },
+          {
+            "cycle": 21,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 7.164940037172559e-05,
+            "dominant_energy": 0.4719386021821529,
+            "modal_entropy": 1.3566853375380103
+          },
+          {
+            "cycle": 22,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.533612093388e-05,
+            "dominant_energy": 0.5277096376722853,
+            "modal_entropy": 1.3142231324333251
+          },
+          {
+            "cycle": 23,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 3.3864485176052904e-05,
+            "dominant_energy": 0.5955002167864677,
+            "modal_entropy": 1.2779529407935213
+          },
+          {
+            "cycle": 24,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 0.00028841977175417434,
+            "dominant_energy": 0.647859225270831,
+            "modal_entropy": 1.2648468982824956
+          }
+        ]
+      },
+      "High_Harmonic_12": {
+        "target_mode": 12,
+        "final_mode": 0,
+        "retention_rate": 0.0,
+        "mean_fidelity": 2.8184520562741676e-07,
+        "success": false,
+        "history": [
+          {
+            "cycle": 0,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 4.872561992886197e-07,
+            "dominant_energy": 0.6106823904327685,
+            "modal_entropy": 0.9974950428034071
+          },
+          {
+            "cycle": 1,
+            "measured_mode": 1,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 3.3286211671796406e-07,
+            "dominant_energy": 0.9399077123731959,
+            "modal_entropy": 0.36805041076648726
+          },
+          {
+            "cycle": 2,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 9.775866766957078e-08,
+            "dominant_energy": 0.6235720566561131,
+            "modal_entropy": 0.9915525240045444
+          },
+          {
+            "cycle": 3,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.5170157137742988e-07,
+            "dominant_energy": 0.9371507162812238,
+            "modal_entropy": 0.34731498589153814
+          },
+          {
+            "cycle": 4,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.602210962943698e-07,
+            "dominant_energy": 0.9870400602007435,
+            "modal_entropy": 0.10183608694022896
+          },
+          {
+            "cycle": 5,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 3.5319095209357624e-07,
+            "dominant_energy": 0.9821538606078641,
+            "modal_entropy": 0.13027527376758014
+          },
+          {
+            "cycle": 6,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 4.0874648422103733e-07,
+            "dominant_energy": 0.9669166738029266,
+            "modal_entropy": 0.21261472358162958
+          },
+          {
+            "cycle": 7,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.5794473404056675e-07,
+            "dominant_energy": 0.9611711340459844,
+            "modal_entropy": 0.24305573260966268
+          },
+          {
+            "cycle": 8,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 7.428708579541545e-08,
+            "dominant_energy": 0.9578238338374396,
+            "modal_entropy": 0.2620192882924459
+          },
+          {
+            "cycle": 9,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 6.345136624110317e-09,
+            "dominant_energy": 0.9371644744857802,
+            "modal_entropy": 0.35653971210045043
+          },
+          {
+            "cycle": 10,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.405287102826756e-08,
+            "dominant_energy": 0.8975184261160853,
+            "modal_entropy": 0.5114715576900044
+          },
+          {
+            "cycle": 11,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.8485147496717128e-08,
+            "dominant_energy": 0.8332790202657501,
+            "modal_entropy": 0.7166181933607637
+          },
+          {
+            "cycle": 12,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.8592411144871494e-08,
+            "dominant_energy": 0.7422280018702512,
+            "modal_entropy": 0.9324803641885597
+          },
+          {
+            "cycle": 13,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.172395562514564e-08,
+            "dominant_energy": 0.6787026751101005,
+            "modal_entropy": 1.0647180867994899
+          },
+          {
+            "cycle": 14,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 7.81240792360265e-08,
+            "dominant_energy": 0.6191014869774178,
+            "modal_entropy": 1.1814855610982768
+          },
+          {
+            "cycle": 15,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.0046439028165672e-08,
+            "dominant_energy": 0.6186493891513614,
+            "modal_entropy": 1.2080535456200332
+          },
+          {
+            "cycle": 16,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.1571032376515967e-07,
+            "dominant_energy": 0.5553690186618201,
+            "modal_entropy": 1.319220981036645
+          },
+          {
+            "cycle": 17,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.8350514163526008e-07,
+            "dominant_energy": 0.5567738817374905,
+            "modal_entropy": 1.337103138440381
+          },
+          {
+            "cycle": 18,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.6832035472542406e-07,
+            "dominant_energy": 0.5317192341559156,
+            "modal_entropy": 1.3813523545638136
+          },
+          {
+            "cycle": 19,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.4367581865693794e-07,
+            "dominant_energy": 0.5178804745311227,
+            "modal_entropy": 1.3810427350042929
+          },
+          {
+            "cycle": 20,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 3.1036748128491363e-07,
+            "dominant_energy": 0.5472250425973678,
+            "modal_entropy": 1.3187947999576417
+          },
+          {
+            "cycle": 21,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 6.079273553894892e-07,
+            "dominant_energy": 0.5772673357230282,
+            "modal_entropy": 1.2491174404227117
+          },
+          {
+            "cycle": 22,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 5.512735041367058e-07,
+            "dominant_energy": 0.5950072458706038,
+            "modal_entropy": 1.1868773472499463
+          },
+          {
+            "cycle": 23,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 5.823455720791928e-07,
+            "dominant_energy": 0.6115861790237194,
+            "modal_entropy": 1.1360766002542766
+          },
+          {
+            "cycle": 24,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.6616656413304812e-06,
+            "dominant_energy": 0.6651368605133932,
+            "modal_entropy": 1.0504544569520538
+          }
+        ]
+      }
+    }
+  },
+  "shots_1024": {
+    "shots": 1024,
+    "overall_success": 0.25,
+    "overall_retention": 0.25,
+    "symbols": {
+      "Ground_Mode_0": {
+        "target_mode": 0,
+        "final_mode": 0,
+        "retention_rate": 1.0,
+        "mean_fidelity": 0.754346757344522,
+        "success": true,
+        "history": [
+          {
+            "cycle": 0,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9957967207614695,
+            "dominant_energy": 0.9957967207614695,
+            "modal_entropy": 0.03965066293333555
+          },
+          {
+            "cycle": 1,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9899688884897602,
+            "dominant_energy": 0.9899688884897602,
+            "modal_entropy": 0.08215051273603573
+          },
+          {
+            "cycle": 2,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9772281474771445,
+            "dominant_energy": 0.9772281474771445,
+            "modal_entropy": 0.16044174745380982
+          },
+          {
+            "cycle": 3,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9549230233603417,
+            "dominant_energy": 0.9549230233603417,
+            "modal_entropy": 0.27565472919338707
+          },
+          {
+            "cycle": 4,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.9255941474712014,
+            "dominant_energy": 0.9255941474712014,
+            "modal_entropy": 0.40499841965076633
+          },
+          {
+            "cycle": 5,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.8961534923679226,
+            "dominant_energy": 0.8961534923679226,
+            "modal_entropy": 0.5196293010439725
+          },
+          {
+            "cycle": 6,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.8578053414226644,
+            "dominant_energy": 0.8578053414226644,
+            "modal_entropy": 0.6492431114397851
+          },
+          {
+            "cycle": 7,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.8057998120629849,
+            "dominant_energy": 0.8057998120629849,
+            "modal_entropy": 0.7966090048062389
+          },
+          {
+            "cycle": 8,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.7484435849045515,
+            "dominant_energy": 0.7484435849045515,
+            "modal_entropy": 0.9274974441426026
+          },
+          {
+            "cycle": 9,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6825063690819778,
+            "dominant_energy": 0.6825063690819778,
+            "modal_entropy": 1.0316657090159123
+          },
+          {
+            "cycle": 10,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6436054960787491,
+            "dominant_energy": 0.6436054960787491,
+            "modal_entropy": 1.0916319200002411
+          },
+          {
+            "cycle": 11,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6201440715497127,
+            "dominant_energy": 0.6201440715497127,
+            "modal_entropy": 1.1386569703319136
+          },
+          {
+            "cycle": 12,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6188992190808271,
+            "dominant_energy": 0.6188992190808271,
+            "modal_entropy": 1.1588166994620126
+          },
+          {
+            "cycle": 13,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6425354865606243,
+            "dominant_energy": 0.6425354865606243,
+            "modal_entropy": 1.1305235824756528
+          },
+          {
+            "cycle": 14,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6479503990029388,
+            "dominant_energy": 0.6479503990029388,
+            "modal_entropy": 1.1243856385205586
+          },
+          {
+            "cycle": 15,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6782794205071374,
+            "dominant_energy": 0.6782794205071374,
+            "modal_entropy": 1.0663223697215045
+          },
+          {
+            "cycle": 16,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6804236435472659,
+            "dominant_energy": 0.6804236435472659,
+            "modal_entropy": 1.0571158509731564
+          },
+          {
+            "cycle": 17,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.7027053563852184,
+            "dominant_energy": 0.7027053563852184,
+            "modal_entropy": 1.0093161226590364
+          },
+          {
+            "cycle": 18,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.7057386953466225,
+            "dominant_energy": 0.7057386953466225,
+            "modal_entropy": 0.9947247413934077
+          },
+          {
+            "cycle": 19,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6945041419159433,
+            "dominant_energy": 0.6945041419159433,
+            "modal_entropy": 1.0106245559373352
+          },
+          {
+            "cycle": 20,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6928869910414442,
+            "dominant_energy": 0.6928869910414442,
+            "modal_entropy": 0.9993152408455591
+          },
+          {
+            "cycle": 21,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.685958482990384,
+            "dominant_energy": 0.685958482990384,
+            "modal_entropy": 0.9892660909116838
+          },
+          {
+            "cycle": 22,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6638353350682955,
+            "dominant_energy": 0.6638353350682955,
+            "modal_entropy": 0.9963395721793368
+          },
+          {
+            "cycle": 23,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6601290921628253,
+            "dominant_energy": 0.6601290921628253,
+            "modal_entropy": 0.9906356521239824
+          },
+          {
+            "cycle": 24,
+            "measured_mode": 0,
+            "target_mode": 0,
+            "retained": true,
+            "mode_fidelity": 0.6868535749750443,
+            "dominant_energy": 0.6868535749750443,
+            "modal_entropy": 0.9594337157957609
+          }
+        ]
+      },
+      "Dipole_Vortex_3": {
+        "target_mode": 3,
+        "final_mode": 0,
+        "retention_rate": 0.0,
+        "mean_fidelity": 0.002376008522597385,
+        "success": false,
+        "history": [
+          {
+            "cycle": 0,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 2.7530700577197833e-06,
+            "dominant_energy": 0.9749931967621566,
+            "modal_entropy": 0.17074146624408465
+          },
+          {
+            "cycle": 1,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 1.411582416973376e-06,
+            "dominant_energy": 0.965226943353857,
+            "modal_entropy": 0.22005900542836587
+          },
+          {
+            "cycle": 2,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 2.1140732155710583e-06,
+            "dominant_energy": 0.9501884975255083,
+            "modal_entropy": 0.28939146519016606
+          },
+          {
+            "cycle": 3,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 9.037221359717616e-06,
+            "dominant_energy": 0.9376988089424272,
+            "modal_entropy": 0.34427437383553655
+          },
+          {
+            "cycle": 4,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 3.773258456373048e-05,
+            "dominant_energy": 0.9309356935396325,
+            "modal_entropy": 0.37641838073684747
+          },
+          {
+            "cycle": 5,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.00011055846060241922,
+            "dominant_energy": 0.9245491054745018,
+            "modal_entropy": 0.40865690649263486
+          },
+          {
+            "cycle": 6,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.00026899570678637813,
+            "dominant_energy": 0.907777507042156,
+            "modal_entropy": 0.47975053133007484
+          },
+          {
+            "cycle": 7,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0005873250953330498,
+            "dominant_energy": 0.8768480522051754,
+            "modal_entropy": 0.5933154499539631
+          },
+          {
+            "cycle": 8,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.001152826503038398,
+            "dominant_energy": 0.8281961394265105,
+            "modal_entropy": 0.7436114723332795
+          },
+          {
+            "cycle": 9,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0019969439526712333,
+            "dominant_energy": 0.7736435894046099,
+            "modal_entropy": 0.8853924318801232
+          },
+          {
+            "cycle": 10,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.003028470507241285,
+            "dominant_energy": 0.7192555251120689,
+            "modal_entropy": 1.004212586542516
+          },
+          {
+            "cycle": 11,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0034680071128082835,
+            "dominant_energy": 0.6593649185042314,
+            "modal_entropy": 1.0978501058236239
+          },
+          {
+            "cycle": 12,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.004158473341120933,
+            "dominant_energy": 0.6192280725956104,
+            "modal_entropy": 1.157239221346176
+          },
+          {
+            "cycle": 13,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.00507898243779889,
+            "dominant_energy": 0.6084281592709017,
+            "modal_entropy": 1.1853145978185156
+          },
+          {
+            "cycle": 14,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.006243031479093079,
+            "dominant_energy": 0.5915087380749132,
+            "modal_entropy": 1.220024966392279
+          },
+          {
+            "cycle": 15,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.00601183066793821,
+            "dominant_energy": 0.6115538182814915,
+            "modal_entropy": 1.1981981708615699
+          },
+          {
+            "cycle": 16,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.005734833886052078,
+            "dominant_energy": 0.6027447004885893,
+            "modal_entropy": 1.2125529882470922
+          },
+          {
+            "cycle": 17,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0037829911943915513,
+            "dominant_energy": 0.6372110159380003,
+            "modal_entropy": 1.154409624198996
+          },
+          {
+            "cycle": 18,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.001973616411482948,
+            "dominant_energy": 0.6550214982730931,
+            "modal_entropy": 1.118255067364986
+          },
+          {
+            "cycle": 19,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0005177097480671994,
+            "dominant_energy": 0.6688746674715504,
+            "modal_entropy": 1.0890229848216142
+          },
+          {
+            "cycle": 20,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 1.4351570496270166e-05,
+            "dominant_energy": 0.6976774035576203,
+            "modal_entropy": 1.0257555819202526
+          },
+          {
+            "cycle": 21,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0005374503952533537,
+            "dominant_energy": 0.7135995531811882,
+            "modal_entropy": 0.9856653147530652
+          },
+          {
+            "cycle": 22,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.0024628578061682586,
+            "dominant_energy": 0.7071502487926601,
+            "modal_entropy": 0.9898833426418214
+          },
+          {
+            "cycle": 23,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.005421316248692184,
+            "dominant_energy": 0.6952038607818354,
+            "modal_entropy": 0.9937878589330743
+          },
+          {
+            "cycle": 24,
+            "measured_mode": 0,
+            "target_mode": 3,
+            "retained": false,
+            "mode_fidelity": 0.006796592008284908,
+            "dominant_energy": 0.6925530796659828,
+            "modal_entropy": 0.967527778967713
+          }
+        ]
+      },
+      "Quadrupole_Vortex_7": {
+        "target_mode": 7,
+        "final_mode": 1,
+        "retention_rate": 0.0,
+        "mean_fidelity": 2.0237909585656706e-05,
+        "success": false,
+        "history": [
+          {
+            "cycle": 0,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.2021148272283022e-06,
+            "dominant_energy": 0.5216520327623457,
+            "modal_entropy": 1.0405533136618617
+          },
+          {
+            "cycle": 1,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.4725626007250326e-06,
+            "dominant_energy": 0.6790430008708771,
+            "modal_entropy": 0.9269858580709014
+          },
+          {
+            "cycle": 2,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.0675670604634582e-06,
+            "dominant_energy": 0.7672587325116886,
+            "modal_entropy": 0.7943841786686465
+          },
+          {
+            "cycle": 3,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 3.060414123935477e-07,
+            "dominant_energy": 0.8546429590130786,
+            "modal_entropy": 0.6027337979520234
+          },
+          {
+            "cycle": 4,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.761381887130272e-07,
+            "dominant_energy": 0.9135826064555835,
+            "modal_entropy": 0.4259060072945771
+          },
+          {
+            "cycle": 5,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.7726541424280635e-07,
+            "dominant_energy": 0.9362518205891884,
+            "modal_entropy": 0.343082384809323
+          },
+          {
+            "cycle": 6,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.465143677788258e-07,
+            "dominant_energy": 0.9354706859904204,
+            "modal_entropy": 0.34828394477606706
+          },
+          {
+            "cycle": 7,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 6.671999905001552e-08,
+            "dominant_energy": 0.921647849123213,
+            "modal_entropy": 0.40489060724044684
+          },
+          {
+            "cycle": 8,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.6043459649664176e-08,
+            "dominant_energy": 0.90043365540295,
+            "modal_entropy": 0.48498911157652785
+          },
+          {
+            "cycle": 9,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 3.2143970160706407e-08,
+            "dominant_energy": 0.8691616612798673,
+            "modal_entropy": 0.5903179509520317
+          },
+          {
+            "cycle": 10,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.770520720892127e-09,
+            "dominant_energy": 0.8332636417841562,
+            "modal_entropy": 0.697725599812672
+          },
+          {
+            "cycle": 11,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 7.671872827126649e-08,
+            "dominant_energy": 0.7887737235323041,
+            "modal_entropy": 0.8118689213279868
+          },
+          {
+            "cycle": 12,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 5.922230631710904e-07,
+            "dominant_energy": 0.7164938437909435,
+            "modal_entropy": 0.9562305060162917
+          },
+          {
+            "cycle": 13,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 8.359764810293451e-07,
+            "dominant_energy": 0.6702101684632648,
+            "modal_entropy": 1.0408371027593433
+          },
+          {
+            "cycle": 14,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.5182477297534635e-06,
+            "dominant_energy": 0.6154069612495641,
+            "modal_entropy": 1.137582155163255
+          },
+          {
+            "cycle": 15,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.6244910309631005e-06,
+            "dominant_energy": 0.5989017909296092,
+            "modal_entropy": 1.1850892645371927
+          },
+          {
+            "cycle": 16,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 2.3131224811075178e-06,
+            "dominant_energy": 0.549812950947438,
+            "modal_entropy": 1.2696197969514396
+          },
+          {
+            "cycle": 17,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 5.369433681433862e-07,
+            "dominant_energy": 0.5559238540500823,
+            "modal_entropy": 1.2858153887336725
+          },
+          {
+            "cycle": 18,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 1.0803088032779635e-05,
+            "dominant_energy": 0.5225088993678938,
+            "modal_entropy": 1.3295754907702801
+          },
+          {
+            "cycle": 19,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 3.443322483123486e-05,
+            "dominant_energy": 0.4909102228499699,
+            "modal_entropy": 1.3540824860653828
+          },
+          {
+            "cycle": 20,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 3.874659254970456e-05,
+            "dominant_energy": 0.4933625990082876,
+            "modal_entropy": 1.3295695661163776
+          },
+          {
+            "cycle": 21,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 3.2552033969338094e-05,
+            "dominant_energy": 0.49200602800377613,
+            "modal_entropy": 1.3048773377193608
+          },
+          {
+            "cycle": 22,
+            "measured_mode": 0,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 9.5052289584239e-06,
+            "dominant_energy": 0.4805854614882432,
+            "modal_entropy": 1.2834154065725862
+          },
+          {
+            "cycle": 23,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 7.544109994012753e-05,
+            "dominant_energy": 0.4800062154120592,
+            "modal_entropy": 1.251382033789237
+          },
+          {
+            "cycle": 24,
+            "measured_mode": 1,
+            "target_mode": 7,
+            "retained": false,
+            "mode_fidelity": 0.00029030286665624366,
+            "dominant_energy": 0.5055812973338746,
+            "modal_entropy": 1.233958030181113
+          }
+        ]
+      },
+      "High_Harmonic_12": {
+        "target_mode": 12,
+        "final_mode": 0,
+        "retention_rate": 0.0,
+        "mean_fidelity": 1.948226967241603e-07,
+        "success": false,
+        "history": [
+          {
+            "cycle": 0,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 4.872561992886197e-07,
+            "dominant_energy": 0.6106823904327685,
+            "modal_entropy": 0.9974950428034071
+          },
+          {
+            "cycle": 1,
+            "measured_mode": 1,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 3.356048090752333e-07,
+            "dominant_energy": 0.9452412158919218,
+            "modal_entropy": 0.34516108641880067
+          },
+          {
+            "cycle": 2,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.0643649051184969e-07,
+            "dominant_energy": 0.6482507536092214,
+            "modal_entropy": 0.9716261042159506
+          },
+          {
+            "cycle": 3,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.6096218091552954e-07,
+            "dominant_energy": 0.9461326201751331,
+            "modal_entropy": 0.3110088171815367
+          },
+          {
+            "cycle": 4,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.764510533742474e-07,
+            "dominant_energy": 0.9919211819663643,
+            "modal_entropy": 0.06943916180036612
+          },
+          {
+            "cycle": 5,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 3.76390776814e-07,
+            "dominant_energy": 0.9831138878887358,
+            "modal_entropy": 0.12410167362960066
+          },
+          {
+            "cycle": 6,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 4.121232526675559e-07,
+            "dominant_energy": 0.9579154245096021,
+            "modal_entropy": 0.25463847490923763
+          },
+          {
+            "cycle": 7,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.8052619085100017e-07,
+            "dominant_energy": 0.9373283219097928,
+            "modal_entropy": 0.3471217856831772
+          },
+          {
+            "cycle": 8,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.1092255199260364e-07,
+            "dominant_energy": 0.9263464329513921,
+            "modal_entropy": 0.39698197453531475
+          },
+          {
+            "cycle": 9,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.2118768633791102e-08,
+            "dominant_energy": 0.9112650038103046,
+            "modal_entropy": 0.4596182842235978
+          },
+          {
+            "cycle": 10,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 4.6961325344963115e-08,
+            "dominant_energy": 0.8770959040212263,
+            "modal_entropy": 0.5790870745740185
+          },
+          {
+            "cycle": 11,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 9.638928039338471e-09,
+            "dominant_energy": 0.8003499984677028,
+            "modal_entropy": 0.7886459950456991
+          },
+          {
+            "cycle": 12,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 5.460482122369367e-08,
+            "dominant_energy": 0.7287573875954656,
+            "modal_entropy": 0.9470076584493492
+          },
+          {
+            "cycle": 13,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 3.38245494491822e-08,
+            "dominant_energy": 0.6858528539123038,
+            "modal_entropy": 1.0413022958023903
+          },
+          {
+            "cycle": 14,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 8.249603556685486e-08,
+            "dominant_energy": 0.636620923822699,
+            "modal_entropy": 1.1510913070323299
+          },
+          {
+            "cycle": 15,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.6596322959388148e-08,
+            "dominant_energy": 0.625868510096361,
+            "modal_entropy": 1.1973422759601218
+          },
+          {
+            "cycle": 16,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.4374389074140197e-07,
+            "dominant_energy": 0.5762684908816731,
+            "modal_entropy": 1.301147009057766
+          },
+          {
+            "cycle": 17,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.8492018728186396e-07,
+            "dominant_energy": 0.5728258878198826,
+            "modal_entropy": 1.3198847967159801
+          },
+          {
+            "cycle": 18,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.0983496221605067e-07,
+            "dominant_energy": 0.5607520256583455,
+            "modal_entropy": 1.3380290109658206
+          },
+          {
+            "cycle": 19,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.6043287875952605e-07,
+            "dominant_energy": 0.5371330748666443,
+            "modal_entropy": 1.348688848152031
+          },
+          {
+            "cycle": 20,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 3.1709267313436007e-07,
+            "dominant_energy": 0.5543855331611267,
+            "modal_entropy": 1.2990751488559655
+          },
+          {
+            "cycle": 21,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.2174823464729166e-07,
+            "dominant_energy": 0.5920713541492465,
+            "modal_entropy": 1.2190897672988437
+          },
+          {
+            "cycle": 22,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 1.6464860077066264e-07,
+            "dominant_energy": 0.6076333196909371,
+            "modal_entropy": 1.1542367974403283
+          },
+          {
+            "cycle": 23,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 2.71566098326942e-07,
+            "dominant_energy": 0.5990650384854536,
+            "modal_entropy": 1.1235601868696519
+          },
+          {
+            "cycle": 24,
+            "measured_mode": 0,
+            "target_mode": 12,
+            "retained": false,
+            "mode_fidelity": 3.736656355180565e-07,
+            "dominant_energy": 0.6232461354866224,
+            "modal_entropy": 1.068849985048998
+          }
+        ]
+      }
+    }
+  }
+}

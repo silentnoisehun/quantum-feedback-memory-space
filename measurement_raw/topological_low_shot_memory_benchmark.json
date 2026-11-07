@@ -1,0 +1,107 @@
+{
+  "shots_20": {
+    "shots": 20,
+    "success_rate": 0.5,
+    "retention": 0.5625,
+    "symbols": {
+      "Attractor_Mode_0": {
+        "m": 0,
+        "final_mode": 0,
+        "retention": 1.0,
+        "fidelity": 0.99999999659364,
+        "success": true
+      },
+      "Attractor_Mode_4": {
+        "m": 4,
+        "final_mode": 4,
+        "retention": 1.0,
+        "fidelity": 0.9977827822672296,
+        "success": true
+      },
+      "Attractor_Mode_8": {
+        "m": 8,
+        "final_mode": 4,
+        "retention": 0.2,
+        "fidelity": 0.2040446130311643,
+        "success": false
+      },
+      "Attractor_Mode_12": {
+        "m": 12,
+        "final_mode": 4,
+        "retention": 0.05,
+        "fidelity": 0.05478603095516292,
+        "success": false
+      }
+    }
+  },
+  "shots_100": {
+    "shots": 100,
+    "success_rate": 0.75,
+    "retention": 0.7625,
+    "symbols": {
+      "Attractor_Mode_0": {
+        "m": 0,
+        "final_mode": 0,
+        "retention": 1.0,
+        "fidelity": 0.9999999965481419,
+        "success": true
+      },
+      "Attractor_Mode_4": {
+        "m": 4,
+        "final_mode": 4,
+        "retention": 1.0,
+        "fidelity": 0.9977551155080622,
+        "success": true
+      },
+      "Attractor_Mode_8": {
+        "m": 8,
+        "final_mode": 8,
+        "retention": 1.0,
+        "fidelity": 0.9982215476402214,
+        "success": true
+      },
+      "Attractor_Mode_12": {
+        "m": 12,
+        "final_mode": 4,
+        "retention": 0.05,
+        "fidelity": 0.055642088723802996,
+        "success": false
+      }
+    }
+  },
+  "shots_1024": {
+    "shots": 1024,
+    "success_rate": 0.75,
+    "retention": 0.7625,
+    "symbols": {
+      "Attractor_Mode_0": {
+        "m": 0,
+        "final_mode": 0,
+        "retention": 1.0,
+        "fidelity": 0.9999999964450872,
+        "success": true
+      },
+      "Attractor_Mode_4": {
+        "m": 4,
+        "final_mode": 4,
+        "retention": 1.0,
+        "fidelity": 0.9977277269134202,
+        "success": true
+      },
+      "Attractor_Mode_8": {
+        "m": 8,
+        "final_mode": 8,
+        "retention": 1.0,
+        "fidelity": 0.9982391047309006,
+        "success": true
+      },
+      "Attractor_Mode_12": {
+        "m": 12,
+        "final_mode": 4,
+        "retention": 0.05,
+        "fidelity": 0.05650298080447822,
+        "success": false
+      }
+    }
+  }
+}
