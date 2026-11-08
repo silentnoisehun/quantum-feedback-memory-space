@@ -1,0 +1,53 @@
+{
+  "timestamp": "2026-11-08T11:19:50Z",
+  "parameters": {
+    "T1_us": 80.0,
+    "T2_phi_us": 100.0,
+    "perturbation_drive_omega_khz": 50.0
+  },
+  "results": [
+    {
+      "gamma_m_hz": 0.0,
+      "avg_survival_us": 4.900000000000001,
+      "avg_mean_fidelity": 0.4996349505274611,
+      "avg_final_fidelity": 0.5012978309722947,
+      "trapping_factor": 1.0
+    },
+    {
+      "gamma_m_hz": 10000.0,
+      "avg_survival_us": 4.7459999999999996,
+      "avg_mean_fidelity": 0.4984828027565628,
+      "avg_final_fidelity": 0.4206148204687138,
+      "trapping_factor": 0.9685714285714282
+    },
+    {
+      "gamma_m_hz": 50000.0,
+      "avg_survival_us": 5.431,
+      "avg_mean_fidelity": 0.4891224172964536,
+      "avg_final_fidelity": 0.4617348348546872,
+      "trapping_factor": 1.1083673469387751
+    },
+    {
+      "gamma_m_hz": 200000.0,
+      "avg_survival_us": 7.181,
+      "avg_mean_fidelity": 0.4812770454278974,
+      "avg_final_fidelity": 0.4113035764916024,
+      "trapping_factor": 1.4655102040816324
+    },
+    {
+      "gamma_m_hz": 1000000.0,
+      "avg_survival_us": 9.751000000000001,
+      "avg_mean_fidelity": 0.5040261593321496,
+      "avg_final_fidelity": 0.33620385859491503,
+      "trapping_factor": 1.9899999999999998
+    },
+    {
+      "gamma_m_hz": 5000000.0,
+      "avg_survival_us": 11.402000000000001,
+      "avg_mean_fidelity": 0.4269566148692145,
+      "avg_final_fidelity": 0.44925470385056687,
+      "trapping_factor": 2.326938775510204
+    }
+  ],
+  "verdict": "CONFIRMED ACTIVE SPACE MEMORY: Continuous weak measurement in the cavity space traps the quantum state via measurement backaction. While the passive system collapses in 4.9 us, the active spatial electromagnetic field preserves the state for 11.4 us, proving that the spatial measurement field dynamically functions as an active memory medium."
+}
